@@ -1,0 +1,5 @@
+{
+  "jestrunner.runOptions": [
+    "--setupFiles dotenv/config -i"
+  ]
+}
